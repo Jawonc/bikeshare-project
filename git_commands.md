@@ -1,4 +1,5 @@
 # Git Commands Used in Ultimate Bikeshare Explorer.us!
+
 ## Repository Setup
 - git clone https://github.com/Jawonc/bikeshare-project.git
 - git init
@@ -8,7 +9,7 @@
 - git branch documentation
 - git checkout documentation
 - git add README.md
-- git commit -m 'Updated README with additional details'
+- git commit -m "Updated README with additional details"
 - git push origin documentation
 - git checkout main
 - git merge documentation
@@ -18,7 +19,7 @@
 - git branch refactoring
 - git checkout refactoring
 - git add bikeshare.py
-- git commit -m 'Refactored bikeshare.py for efficiency'
+- git commit -m "Refactored bikeshare.py for efficiency"
 - git push origin refactoring
 - git checkout main
 - git merge refactoring
