@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
+=======
+# 🚴‍♂️ Bikeshare Data Analysis
+>>>>>>> c3f12d5 (Added concise README file)
 
 ## 📌 Overview
 This project analyzes bikeshare data from major U.S. cities, providing insights into travel patterns, peak usage times, and user demographics.
@@ -32,8 +36,15 @@ This project analyzes bikeshare data from major U.S. cities, providing insights 
 ## ⚙️ Requirements
 Install the required dependencies using:
    ```bash
-   pip install pandas, colorama, tabulate
+   pip install pandas colorama tabulate
    ```
+<<<<<<< HEAD
 =======
 >>>>>>> 58aaaf1 (Updated README with additional details)
 >>>>>>> 5353dfd (Restored README.md)
+=======
+
+## 🚀 Future Improvements
+- Add data visualizations for better insights
+- Implement a user-friendly web interface
+>>>>>>> c3f12d5 (Added concise README file)
